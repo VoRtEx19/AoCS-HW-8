@@ -1,0 +1,3 @@
+E:/Study/HSEGrade2/AoCS/AoCS-HW-8/cmake-build-debug/CMakeFiles/AoCS_HW_8.dir
+E:/Study/HSEGrade2/AoCS/AoCS-HW-8/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Study/HSEGrade2/AoCS/AoCS-HW-8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
